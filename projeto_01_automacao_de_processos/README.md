@@ -28,7 +28,7 @@ Para eliminar esse processo manual, foi criado um script em **Python + PyAutoGUI
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.14.0**
 - **PyAutoGUI** – automação de mouse e teclado  
 - **Pandas** – manipulação de dados  
 - **OpenPyXL** – suporte a arquivos Excel  
